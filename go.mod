@@ -1,3 +1,3 @@
-module github.com/adolsalamanca/sockets
+module github.com/adolsalamanca/golang-sockets
 
 go 1.14
